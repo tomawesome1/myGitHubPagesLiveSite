@@ -3,6 +3,8 @@
 
 https://tomawesome1.github.io/myGitHubPagesLiveSite/
 
+https://www.rapidevelopers.com/github-for-non-tech/how-to-preview-html-files-directly-in-github
+
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
 
 ---
