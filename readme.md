@@ -1,4 +1,7 @@
-# Welcome to (tom's marked up verion of) Dillinger
+# Welcome to (tom's marked up version of) Dillinger
+[inline links](https://tomawesome1.github.io/myGitHubPagesLiveSite/)
+
+https://tomawesome1.github.io/myGitHubPagesLiveSite/
 
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
 
